@@ -2,6 +2,8 @@
 
 An interactive scoreboard for rugby matches with real-time score tracking, game timer, and detailed statistics.
 
+<img width="600" height="400" alt="scoreboard-screenshot" src="https://github.com/user-attachments/assets/5b3867b5-ffc4-456a-bea0-9db506323667" />
+
 [**Live Demo**](https://scoreboard-ben.netlify.app/)
 
 ## Features
